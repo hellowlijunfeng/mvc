@@ -52,10 +52,5 @@
 
 http://www.cglife.top/index.php?c=index&m=index&a=index
 
-c 对应模块 前台/后台 
-
-a 对应控制器名
-
-m 对应方法名
 
 
