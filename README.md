@@ -50,7 +50,7 @@
 
 运行
 
-http://www.cglife.top/index.php?c=index&m=index&a=index
+http://junfeng.cglife.top/index.php?a=index&m=index&c=index
 
 
 
